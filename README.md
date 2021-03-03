@@ -1,16 +1,8 @@
-# fluttertube
+App desenvolvido no aprenzidado de Flutter utilizando Bloc.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O app usa uma api para pegar os videos do youtube, e da a opção de 
+voce reproduzir um video ou adiciona-lo aos favoritos clicando no icone de estrala de cada video.
+Clicando no icone de estrela da appBar você abre a tela de favoritos, é onde fica armazenado
+os videos que voce adicionou aos favoritos.
+PAra remover um video dos favoritos basta encntrar o video e desmarcar a estrela ou indo até a tela de favoritos
+e dando um clique longe sobre o video.
